@@ -7,6 +7,12 @@
 body {
     background-color:#2196fe;
     color:#ffffff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    max-width:100%;
+    min-height:100vh;
 }
 h1 {
     text-align:center;
